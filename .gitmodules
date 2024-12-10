@@ -1,0 +1,3 @@
+[submodule "xrechnung-visualization"]
+	path = xrechnung-visualization
+	url = https://github.com/itplr-kosit/xrechnung-visualization

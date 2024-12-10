@@ -1,0 +1,7 @@
+.vscode/
+.idea/
+.lh/
+
+tmp/
+lib/
+build/
